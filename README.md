@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, I'm Everlyne 👋
+
+I am a Data Annotator and AI Content Evaluator specializing in high-quality data labeling, multimedia analysis, and model training support.
+
+### 🛠 Core Competencies
+* **Multimedia Annotation:** Image and video classification, bounding boxes, and semantic tagging.
+* **Data Quality & QA:** Reviewing video/audio clips, verifying metadata accuracy, and tracking data consistency.
+* **Language & Content Evaluation:** Content moderation, prompt testing, and text/multimedia alignment.
+* **Platforms & Tools:** Experienced with web-based data collection, remote tracking, and secure verification interfaces.
+
 
 <!--
 **ever9326/ever9326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
